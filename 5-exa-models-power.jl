@@ -54,5 +54,5 @@ result = madnlp(model; tol=1e-6)
 # - Security-constrained OPF (with N-1 constraints)
 # - Distribution system OPF (with unbalanced three-phase models)
 
-# For more information on the current status of ExaModelsPower.jl, please refer to the __[ExaModelsPower.jl documentation](https://exanauts.github.io/ExaModelsPower.jl/dev/)__.
+# For more information on the current status of ExaModelsPower.jl, please refer to the __[ExaModelsPower.jl documentation](https://madsuite.org/ExaModelsPower.jl/dev/)__.
 
